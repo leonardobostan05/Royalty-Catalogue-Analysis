@@ -30,13 +30,13 @@ Als Produzent arbeite ich sowohl an größeren Projekten wie z.B. Netflix Shows 
 
 ## Methodik
 
-[... kurz: Einlesen → Bereinigen → Anteile zusammenführen → „wahre Größe" berechnen
-→ Pareto- und Gruppenvergleich → Visualisierung ...]
+<!--[... kurz: Einlesen → Bereinigen → Anteile zusammenführen → „wahre Größe" berechnen
+→ Pareto- und Gruppenvergleich → Visualisierung ...]-->
 
 ## Ergebnisse
 
-[... 2–4 Kernbefunde mit Zahlen, z. B. „Top 10 % der Songs = XX % des Einkommens".
-Die wichtigsten 2–3 Diagramme aus `figures/` hier einbetten. ...]
+<!--[... 2–4 Kernbefunde mit Zahlen, z. B. „Top 10 % der Songs = XX % des Einkommens".
+Die wichtigsten 2–3 Diagramme aus `figures/` hier einbetten. ...]-->
 
 ## Wichtigste Einschränkungen
 
