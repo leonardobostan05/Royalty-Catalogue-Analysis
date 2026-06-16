@@ -1,0 +1,22 @@
+# --- Sensible Daten: NIE ins öffentliche Repo ---
+data/raw/**
+data/processed/**
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/raw/sample/
+!data/raw/sample/**
+
+# --- Mac Systemdateien ---
+.DS_Store
+**/.DS_Store
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+
+
