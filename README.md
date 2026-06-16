@@ -18,7 +18,7 @@ Als Produzent arbeite ich sowohl an größeren Projekten wie z.B. Netflix Shows 
 
 ## Daten
 
-- Quelle: Publishing Abrechnungen (Score & Beatstars) im Zeitraum Juni 2022 - Juni 2026
+- Quelle: Publishing Abrechnungen (SCORE) im Zeitraum Juni 2022 - Juni 2026
 - Einheit der Analyse: ein Song (Werk).
 - Zielgröße: mir zustehende Einnahmen in USD.
 - Abgeleitete Kennzahl: **„wahre Songgröße" ≈ Einnahme ÷ Eigenanteil %**
