@@ -1,4 +1,4 @@
-# --- Sensible Daten: NIE ins öffentliche Repo ---
+# --- Sensible Daten: ---
 data/raw/**
 data/processed/**
 !data/raw/.gitkeep
